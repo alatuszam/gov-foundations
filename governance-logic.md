@@ -27,7 +27,7 @@
 - The on-chain governance process is determined via the binary run by the Cosmos Hub validators that collectively have greater than 2/3rds of total staked tokens delegated to them. 
 - Cosmos citizens can alter on-chain governance processes via a software-upgrade proposal or a gov-param proposal. 
 - Cosmos citizens may choose to adopt new on-chain governance processes at any time, but must explicitly define how any new process affect  Cosmos citizens' power over influencing shared-resources. 
-- Governance slashing, or the act of reducing the voting power of any citizen is considered a valid sanction for actors acting in bad-faith.
+- Governance slashing, or the act of reducing the voting power of any citizen is considered a valid sanction for actors acting in bad-faith. ([note](https://twitter.com/abratusz/status/1630146232696942594))
 - Governance boosting, or the act of increasing the voting power of any citizen, is prohibited. Reducing voting power via governance slashing results in increasing voting power of all other wallets, proportionately. This is to enable good actors to emerge naturally and acknowledges non-action as a valid method of acting in good-faith. 
 - If a validator is governance slashed, all wallets delegating to that validator are also governance slashed. (what attack vectors does this open up? what is another way to do on-chain reputation systems?)
 - A proposal is not finished after it passes on-chain governance. The execution and feedback stage are deeply relevant to the governance process.
