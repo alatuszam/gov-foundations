@@ -1,4 +1,4 @@
-_Note: this is a work in progress. It follows the philosophy of "working with the garage door open". The more feedback feedback, the merrier. Feel free to give feedback via twitter (@abratusz), telegram (@abratusz), or email (ala.tusz.am@skiff.com)._
+_Note: this is a work in progress. It follows the philosophy of "working with the garage door open". This document needs your feedback. Feel free to reach out via twitter (@abratusz), telegram (@abratusz), or email (ala.tusz.am@skiff.com)._
 
 # Preamble: 
 "[The Cosmos Hub] is a network of [ATOM holders] who share common purpose, and are the only ones who hold the power to execute actions that manage [the Hub's] shared resources." ([Anticapture](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ))
