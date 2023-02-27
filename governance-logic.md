@@ -1,3 +1,5 @@
+_Note: this is a work in progress. It follows the philosophy of "working with the garage door open". The more feedback feedback, the merrier. Feel free to give feedback via twitter (@abratusz), telegram (@abratusz), or email (ala.tusz.am@skiff.com)._
+
 # Preamble: 
 "[The Cosmos Hub] is a network of [ATOM holders] who share common purpose, and are the only ones who hold the power to execute actions that manage [the Hub's] shared resources." ([Anticapture](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ))
 
@@ -35,12 +37,12 @@
 ## Off-chain Governance: 
 - Off-chain governance is the foundation of on-chain governance.
 - Off-chain governance encompasses every aspect of decision making that does not happen on-chain. (does this make sense?)
-- Off-chain governance processes may arise at any time with or without social consensus.
+- Off-chain governance processes may arise at any time with or without social consensus. 
 - Social consensus is important to formally recognize and ratify off-chain governance processes and their implications. 
-- Implications of off-chain governance may be enforceable either off-chain via social action or on-chain via governance. 
-- Reaching social consensus implies that any deviation from that consensus via on-chain action requires published justification. Failing to publish justification may amount to a censure proposal. (is this effective? how to deal with issues of jurisprudence for on-chain governance)
-- To reach social consensus, off-chain governance processes may be ratified at any time via an on-chain proposal called a signaling proposal.
-- When possible, ratified processes should seek expression via on-chain governance. If this does not occur, governance processes are expected to be upheld via social-actions.
+- Social consensus is reached via an on-chain proposal called a signaling proposal. 
+- Reaching social consensus implies that any deviation from that consensus via on-chain action requires published justification. Failing to publish justification may amount to a censure proposal. (is this effective? how to deal with issues of jurisprudence for on-chain governance? should social consensus be "enforced" by any means other than a fork?)
+- Implications of off-chain governance may be enforceable either off-chain via social action or on-chain via governance, or culturally via a fork.  
+- When possible, ratified processes should seek expression via on-chain governance. If this does not occur, governance processes are expected to be upheld via social-actions. (contradictory?)
 
 # Shared Resource Governance
 ## Raising on-chain proposals
