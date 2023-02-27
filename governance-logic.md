@@ -13,7 +13,7 @@
 
 # Governance: 
 - Governance recursively includes every action related to influencing the shared resources of the Cosmos Hub.
-- The core purpose of Cosmos Hub governance is to resist capture of the Cosmos Hub by malicious actors, or those who seek to use the shared resources for ends that do not align with the vision of its citizens. 
+- One of the essential responsibilities of Cosmos Hub governance is to resist capture of the Cosmos Hub by malicious actors, or those who seek to use the shared resources for ends that do not align with the vision of its citizens. 
 - Capture-resistance is a practice, and each Cosmos citizen has a duty to uphold capture-resistance in thought and action. Any thought or action that seeks to further the aim of capture-resistance is an act performed in good-faith. 
 - Slashing should not ever be used to retroactively alter the token amount in wallets. Slashing of tokens is reserved exclusively for in-protocol, deterministic removal of token holdings for actions (for example equivocation faults (double signing), undue downtime, or malicious governance proposals determined as such via a NoWithVeto vote). 
 - The freedom to disobey is a core tenet of capture-resistance. All Cosmos citizens have a right to publish freely via any means available.
