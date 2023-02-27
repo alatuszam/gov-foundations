@@ -12,7 +12,6 @@ _Note: this is a work in progress. It follows the philosophy of "working with th
 - Anyone that owns any piece of an ATOM token is an ATOM holder. 
 - ATOM holders may become citizens by staking ATOM. (needs further definition, or in the philosophy of Hypha's draft, exclusion so as not to become prescriptive). 
 - Citizens dictate the allocation of the Cosmos Hub shared resources via governance. (Daniel Ospina mentioned that we may want to include a more comprehensive approach here). 
-- 
 
 # Governance: 
 - Governance recursively includes every action related to influencing the shared resources of the Cosmos Hub.
